@@ -1,0 +1,28 @@
+{
+  "name": "night-panther",
+  "displayName": "Night Panther",
+  "description": "A dark theme with a full black background based on Night Wolf black",
+  "version": "1.0.0",
+  "publisher": "abacove",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night Panther",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night Panther-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "black",
+    "night",
+    "panther"]
+}
