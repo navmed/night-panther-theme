@@ -2,10 +2,12 @@
 	"name": "Night Panther",
 	"type": "dark",
 	"colors": {
-		"activityBar.activeBackground": "#1d1931",
+		"activityBar.background": "#162a3f",
+		"activityBar.activeBackground": "#003366",
+		
 		"activityBar.activeBorder": "#5122fd",
 		"activityBar.activeFocusBorder": "#8c00ff",
-		"activityBar.background": "#000000",
+		
 		"activityBar.border": null,
 		"activityBar.foreground": "#88ff88",
 		"activityBar.inactiveForeground": "#999999",
